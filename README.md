@@ -47,6 +47,15 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" **alt="Bitbucket" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgres" **alt="Postgres" width="40" 
   height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="FireFox" **alt="Firefox" width="40" 
+  height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" 
+  height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" **alt="JavaScript" width="40" 
+  height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" **alt="intellij" width="40" 
+  height="40"/>
+  
   
   ### :fire: My Stats : 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NikitinNikita94&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
